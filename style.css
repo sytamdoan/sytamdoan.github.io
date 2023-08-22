@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Times New Roman'; /* Choose a font-family name */
-  src: url('path-to-font/custom-font.ttf') format('truetype');
+  src: url('Times_New_Roman.ttf') format('truetype');
 }
 
 body {
