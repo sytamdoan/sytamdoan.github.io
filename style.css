@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Times New Roman'; /* Choose a font-family name */
+  font-family: 'Times New Roman';
   src: url('Times_New_Roman.ttf') format('truetype');
 }
 
@@ -45,7 +45,6 @@ ul {
 li {
     margin-bottom: 15px;
     line-height: 2.5;
-    /* white-space: nowrap; */
 }
 
 img {
