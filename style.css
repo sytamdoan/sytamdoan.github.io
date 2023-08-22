@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Times New Roman'; /* Choose a font-family name */
+  src: url('path-to-font/custom-font.ttf') format('truetype');
+}
+
 body {
     font-family: "Times New Roman", Times, serif;
     line-height: 1.6;
@@ -46,6 +51,8 @@ li {
 img {
     padding-left: 20px;
     background-color: green;
+    width: 50px;
+    height: 50px;
 }
 
 footer {
@@ -81,9 +88,4 @@ footer {
     flex: 1;
     width: 100%;
     margin-left: 20px;
-}
-
-img {
-    width: 50px;
-    height: 50px;
 }
