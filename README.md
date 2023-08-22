@@ -10,7 +10,7 @@
             <div id = "contact">
                 <p>Email: sytamdoan@gmail.com  ||   Oklahoma City, OK 73139</p>
                 <a href="https://github.com/sytamdoan?tab=repositories">
-                    <img src="GitHub.png" alt="Github Page">
+                    <img src="GitHub-logo.png" alt="Github Page">
                 </a>
             </div>
     </header>
