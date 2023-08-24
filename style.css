@@ -54,6 +54,10 @@ img {
     height: 50px;
 }
 
+#git {
+    background-color: #fff0;
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
